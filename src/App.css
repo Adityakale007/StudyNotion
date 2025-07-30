@@ -1,0 +1,10 @@
+@import "tailwindcss";
+*{
+  box-sizing: border-box;
+}
+html,body{
+  overflow-x: hidden;
+}
+.homePage_bg{
+  background: url("../src/assets/design.jpg");
+}
